@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @N3xar, I'm from South Africa
+- 👋 Hi, I’m @N3xar, I'm from Cape-Town in sunny South Africa
 - 👀 I’m interested in Tech - have been providing support for desktops, networks, servers for 20 years now. It isn't just what I do, it's who I am. I'm also an avid gamer, for the love of art and passion that goes into it.
 - 🌱 I’m currently learning Github and collaborating on projects through it, in support of a modlist I'm making for Fallout 4, which you can find more info on at https://nexarplays.co.za/fallout4
 - 💞️ I’m looking to collaborate on anything on my Github really, as well as related to my profession (above).
