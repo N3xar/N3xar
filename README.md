@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything on my Github really, as well as related to my profession (above).
 - 📫 How to reach me: message me here on Github - I'll share further contact details from there.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: If you only do what you can, you will never be more than you are - Master Oogway - Kun Fu Panda
+- ⚡ Fun fact: If you only do what you can, you will never be more than you are - Master Oogway (Kung Fu Panda)
 
 <!---
 N3xar/N3xar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
